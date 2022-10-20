@@ -4,7 +4,6 @@
     "version": 2,
     "env": {
       "MONGO_URI": "mongodb+srv://Naufal-Tech:Password@cluster0.bqjqm.mongodb.net/?retryWrites=true&w=majority",
-      "JWT_SECRET": "secret",
-      "PORT": "5000"
+      "JWT_SECRET": "secret"
     }
   }
